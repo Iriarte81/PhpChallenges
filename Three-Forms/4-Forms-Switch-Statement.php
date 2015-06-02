@@ -89,7 +89,7 @@ echo "</form>";
 echo "The Form";
 echo "</br></br>";
 echo "<form action='4-Forms-Switch-Statement.php' method='POST'>";
-echo "First name:<br>";
+echo "Pick a day:<br>";
 echo " <select name='FormOptions'>
 			<option value='Monday'>Monday</option>
   			<option value='Tuesday'>Tuesday</option>
