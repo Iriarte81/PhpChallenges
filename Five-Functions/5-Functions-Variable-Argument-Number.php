@@ -20,7 +20,7 @@ part of the script is also upper case.
 <head>
   <meta charset="utf-8">
 
-  <title>Exercise 26</title>
+  <title>Exercise 27</title>
  </head>
 
 <body>

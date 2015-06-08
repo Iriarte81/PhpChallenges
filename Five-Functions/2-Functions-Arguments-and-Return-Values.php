@@ -18,7 +18,7 @@ has an area of $area.", where $l and $w are the arguments and $area is the resul
 <head>
   <meta charset="utf-8">
 
-  <title>Exercise 23</title>
+  <title>Exercise 24</title>
  </head>
 
 <body>

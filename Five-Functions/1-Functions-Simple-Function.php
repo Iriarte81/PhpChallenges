@@ -17,7 +17,7 @@ For this PHP exercise, create a function called "hello" that outputs that phrase
 <head>
   <meta charset="utf-8">
 
-  <title>Exercise 22</title>
+  <title>Exercise 23</title>
  </head>
 
 <body>

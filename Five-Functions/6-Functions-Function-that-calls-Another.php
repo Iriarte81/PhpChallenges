@@ -18,7 +18,7 @@ produce the options. Give the function an error checking action to assure that t
 <head>
   <meta charset="utf-8">
 
-  <title>Exercise 27</title>
+  <title>Exercise 28</title>
  </head>
 
 <body>

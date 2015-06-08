@@ -38,7 +38,7 @@ table {border-collapse: collapse; border: 1px solid black;}
 <head>
   <meta charset="utf-8">
 
-  <title>Exercise 21</title>
+  <title>Exercise 22</title>
 <style type="text/css">
 td, th {width: 8em; border: 1px solid black; padding-left: 4px;}
 th {text-align:center;}

@@ -17,7 +17,7 @@ supply two text boxes, one for length and one for width. Using your function to 
 <head>
   <meta charset="utf-8">
 
-  <title>Exercise 24</title>
+  <title>Exercise 25</title>
  </head>
 
 <body>

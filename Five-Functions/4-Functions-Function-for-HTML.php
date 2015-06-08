@@ -26,7 +26,7 @@ a different response for February.
 <head>
   <meta charset="utf-8">
 
-  <title>Exercise 25</title>
+  <title>Exercise 26</title>
  </head>
 
 <body>
