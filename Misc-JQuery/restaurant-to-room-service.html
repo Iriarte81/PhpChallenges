@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Room Service | The Landon Hotel</title>
+<link rel="stylesheet" href="style/style.css">
+<script src="../../jquery-1.11.1.js"></script>
+</head>
+<body class="room-service">
+	<div class="container">
+		<div class="header"><img src="img/header.png"></div>
+        <div id="hero">
+            <div class="current"><img src="img/HomePageImages/Paris.jpg"></div>
+        </div>
+
+<nav class="main-navigation" role="navigation">
+<div>
+<ul id="menu-main-menu" class="nav-menu">
+<li><a href="index.html">Home</a></li>
+<li><a href="restaurant-to-room-service.html">Room Service</a></li>
+<li><a href="specials.html">Specials</a></li>
+<li><a href="reservations.html">Reservations</a></li>
+<li><a href="meetings-events.html">Meetings &#038; Events</a></li>
+<li><a href="news.html">News</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul></div>
+</nav>
+
+    <div class="content">
+		
+	<h1>Room Service</h1>
+	<img align="left" src="img/restaurant-to-room_web.png" alt="restaurant to room_web" width="300" height="282" /><p>No matter what you're craving, <em><strong>Restaurant to Room</strong></em> has you covered. Our fast and friendly delivery service brings you hot, fresh food, from a diverse choice of local restaurants.</p>
+    <ul id="restaurants">
+        <li data-type="meat"><a title="Dinner Destiny" href="#" target="_blank">Dinner Destiny</a></li>
+        <li data-type="veg"><a title="Eat Your Veggies Cafe" href="#" target="_blank">Eat Your Veggies Caf&eacute;</a></li>
+        <li data-type="meat"><a title="Food Rendezvous" href="#" target="_blank">Food Rendezvous</a></li>
+        <li data-type="meat"><a title="Jeffrey's on the Square" href="#" target="_blank">Jeffrey's on the Square</a></li>
+        <li data-type="veg"><a title="Legume Palace" href="#" target="_blank">Legume Palace</a></li>
+        <li data-type="meat"><a title="Pickles &amp; Pepperoni Deli" href="#" target="_blank">Pickles &amp; Pepperoni Deli</a></li>
+        <li data-type="veg"><a title="Picky Palate" href="#" target="_blank">Picky Palate</a></li>
+        <li data-type="veg"><a title="Simply Safe" href="#" target="_blank">Simply Safe</a></li>
+        <li data-type="meat"><a title="Supreme &amp; Fancy Pizza" href="#" target="_blank">Supreme &amp; Fancy Pizza</a></li>
+        <li data-type="meat"><a title="Totally Fishy" href="#" target="_blank">Totally Fishy</a></li>
+    </ul>
+    <p>Simply fill out the online form below, and we'll have food delivered directly to your room, within an hour, or your meal is free. The only difficult part is choosing. (Sorry, we can't help you with that.)</p>
+				
+    <form method="post" action="" id="roomserviceform" class="roomservice-form">
+        <div>Restaurant Preference
+            <select> 
+            <option value="Please Make a Selection" selected="selected"></option>
+            <option value="1" >Dinner Destiny</option>
+            <option value="2" >Eat Your Veggies Caf&eacute;</option>
+            <option value="3" >Food Rendezvous</option>
+            <option value="4" >Jeffrey's on the Square</option>
+            <option value="5" >Legume Palace</option>
+            <option value="6" >Pickles &amp; Pepperoni Deli</option>
+            <option value="7" >Picky Palate</option>
+            <option value="8" >Simply Safe</option>
+            <option value="9" >Supreme &amp; Fancy Pizza</option>
+            <option value="10" >Totally Fishy</option>
+            </select>
+        </div> 
+
+        <div>Name <input type="text" value="" size="30" /></div>
+        <div>Room Number <input size="3" maxlength="4" value=""/></div> 
+        <div>Delivery Time <input size="3" maxlength="4" value=""/></div> 
+        <div>Phone (<input size="3" maxlength="3" value="" type="text">)<input size="3" maxlength="3" value="" type="text"> -<input size="4" maxlength="4" value="" type="text"></div>				
+        <div>Email <input type="text" maxlength="255" value=""/></div>
+        <div><input type="submit" name="submit" value="Submit" /></div>
+    </form>	
+	
+	</div>
+</body>
+</html>
