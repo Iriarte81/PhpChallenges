@@ -21,6 +21,18 @@ The folders appear arranged alphabetically, but their original, recommended and 
 
 The MoreChallenges folder contain PHP, SQL, and other language challenges from www.w3resource.com. I am currently adding to this folder as I solve more of the challenges.
 
+## Misc JQuery
+
+Misc-JQuery challenges will contain miscellaneous jquery challenges gathered from various sources.
+Currently it contains third party JQuery educational files to serve as reference.
+
 ## Misc Challenges
 
-Misc-JQuery challenges contains miscellaneous jquery challenges gathered from various sources Misc-Challenges contains PHP challenges also gathered from various sources.
+This section includes several challenge scripts from php interviews including:
+1. Tic Tac Toe Game Script
+2. It will include a Wordsearch script that constructs a wordsearch puzzle and displays it, and a script that solves the Wordsearch puzzle.
+3. And a Script for a game of 4-in-line. 
+
+## Misc AJAX
+
+This section controls sample scripts for implementing XML TXT JSON loading via Javascript and JQuery as well as a script to build XML and JSON API endpoints via SQL and Javascript.
